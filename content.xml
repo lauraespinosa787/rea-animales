@@ -1,0 +1,1529 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>zen</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260602182200AVF1D2</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260602182200QV9P9R</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>PLUMAS Y ¡PROBLEMAS!</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Laura Espinosa Enrique </value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de aprendizaje interactiva diseñada bajo los principios DUA para investigar las características físicas y hábitats de los animales en Educación Especial, priorizando alumnado con un nivel de 2º ciclo de educación infantil. 
+Este recurso contiene pictogramas de ARASAAC (Sergio Palao / Gobierno de Aragón) con licencia CC BY-NC-SA.
+</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>zen</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1780411055143</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mpwow9jy-gunxiychv</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>PRESENTACIÓN</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Introducción</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>PRESENTACIÓN</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9jy-gunxiychv</odePageId>
+      <odeBlockId>block-1779904691119-l6pieyqqo</odeBlockId>
+      <blockName>PLUMAS Y ¡PROBLEMAS!</blockName>
+      <iconName>nature</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9jy-gunxiychv</odePageId>
+          <odeBlockId>block-1779904691119-l6pieyqqo</odeBlockId>
+          <odeIdeviceId>idevice-1779904691116-ayornicjw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;"><strong>¡Hola aventureros y aventureras!</strong></h1>
+<p style="text-align: justify;">Bienvenidos a nuestro nuevo proyecto: <strong>PLUMAS Y ¡PROBLEMAS!</strong></p>
+<p style="text-align: justify;">En esta nueva aventura vamos a acercarnos al mundo animal, descubriendo sus características, sus sonidos y su piel. También hablaremos de <strong>¡nuestras mascotas!</strong></p>
+<p style="text-align: justify;">¿Estáis preparados para explorar, para hacer fotos y para movernos como animales?</p>
+<p style="text-align: justify;"><strong>¡Que empiece la aventura!</strong><strong></strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779904691116-ayornicjw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\"><strong>¡Hola aventureros y aventureras!</strong></h1>\n<p style=\"text-align: justify;\">Bienvenidos a nuestro nuevo proyecto: <strong>PLUMAS Y ¡PROBLEMAS!</strong></p>\n<p style=\"text-align: justify;\">En esta nueva aventura vamos a acercarnos al mundo animal, descubriendo sus características, sus sonidos y su piel. También hablaremos de <strong>¡nuestras mascotas!</strong></p>\n<p style=\"text-align: justify;\">¿Estáis preparados para explorar, para hacer fotos y para movernos como animales?</p>\n<p style=\"text-align: justify;\"><strong>¡Que empiece la aventura!</strong><strong></strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k2-2icq7w5p4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>1. ¿Comenzamos nuestro proyecto?</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Comenzamos nuestro proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>1. ¿Comenzamos nuestro proyecto?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>1. ¿Comenzamos nuestro proyecto?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k2-2icq7w5p4</odePageId>
+      <odeBlockId>block-1779977275653-1en20ly01</odeBlockId>
+      <blockName>¿Qué vamos a aprender?</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k2-2icq7w5p4</odePageId>
+          <odeBlockId>block-1779977275653-1en20ly01</odeBlockId>
+          <odeIdeviceId>idevice-1779977275649-qyvlw67hp</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡NUESTRA MISIÓN DE MAYO!</strong></h1>
+<p style="text-align: justify;">¡Hola chicos y chicas! Durante todo este mes vamos a convertirnos en <strong>investigadores</strong> de <strong>ANIMALES</strong>. </p>
+<p style="text-align: justify;">Vamos a abrir bien las orejas para escuchar sus sonidos y rugidos, y usaremos nuestras manos para tocar sus diferentes pieles, plumas y pelajes. </p>
+<p style="text-align: justify;">Aprenderemos cómo son, dónde viven y cómo cuidarlos adecuadamente.</p>
+<p style="text-align: justify;"><strong>¿Estáis preparados para explorar y divertirnos?</strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779977275649-qyvlw67hp","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡NUESTRA MISIÓN DE MAYO!</strong></h1>\n<p style=\"text-align: justify;\">¡Hola chicos y chicas! Durante todo este mes vamos a convertirnos en <strong>investigadores</strong> de <strong>ANIMALES</strong>. </p>\n<p style=\"text-align: justify;\">Vamos a abrir bien las orejas para escuchar sus sonidos y rugidos, y usaremos nuestras manos para tocar sus diferentes pieles, plumas y pelajes. </p>\n<p style=\"text-align: justify;\">Aprenderemos cómo son, dónde viven y cómo cuidarlos adecuadamente.</p>\n<p style=\"text-align: justify;\"><strong>¿Estáis preparados para explorar y divertirnos?</strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9k2-2icq7w5p4</odePageId>
+      <odeBlockId>block-1779978175950-bcit8sm8l</odeBlockId>
+      <blockName>Guía de aprendizaje</blockName>
+      <iconName>diary_alt</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k2-2icq7w5p4</odePageId>
+          <odeBlockId>block-1779978175950-bcit8sm8l</odeBlockId>
+          <odeIdeviceId>idevice-1779978175949-c6h83awfc</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1>EL MAPA DE NUESTRO PROYECTO</h1>
+<p>A continuación, podéis ver de <span style="text-decoration: underline;"><strong>forma interactiva</strong></span> nuestra guía del proyecto.</p>
+<p>Es un pequeño resumen que nos enseña todo lo que vamos a investigar, los juegos que haremos con las pieles y sonidos de los animales, y cómo vamos a aprender juntos durante estas semanas.</p>
+<p><strong>¡Es el mapa que organiza nuestra gran misión de mayo!</strong></p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><strong><a href="https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?utm_content=DAHHeSA7Q6U&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">PLUMAS Y PROBLEMAS</a> de Laura Espinosa Enrique</strong></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779978175949-c6h83awfc","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1>EL MAPA DE NUESTRO PROYECTO</h1>\n<p>A continuación, podéis ver de <span style=\"text-decoration: underline;\"><strong>forma interactiva</strong></span> nuestra guía del proyecto.</p>\n<p>Es un pequeño resumen que nos enseña todo lo que vamos a investigar, los juegos que haremos con las pieles y sonidos de los animales, y cómo vamos a aprender juntos durante estas semanas.</p>\n<p><strong>¡Es el mapa que organiza nuestra gran misión de mayo!</strong></p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><strong><a href=\"https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?utm_content=DAHHeSA7Q6U&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">PLUMAS Y PROBLEMAS</a> de Laura Espinosa Enrique</strong></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k3-flpkiya86</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>2. ¡ATENCIÓN NINJAS!</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¡ATENCIÓN NINJAS!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>2. ¡ATENCIÓN NINJAS!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>2. ¡ATENCIÓN NINJAS!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k3-flpkiya86</odePageId>
+      <odeBlockId>block-1779979021821-7vdd35777</odeBlockId>
+      <blockName>REGLA NÚMERO 1: ¡Nuestra privacidad es un tesoro!</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k3-flpkiya86</odePageId>
+          <odeBlockId>block-1779979021821-7vdd35777</odeBlockId>
+          <odeIdeviceId>idevice-1779979021818-bhhj7frqw</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>HOLA SÚPER NINJAS</strong></h1>
+<p style="text-align: justify;">En esta investigación sobre los <strong>ANIMALES</strong> vamos a tener que utilizar las <strong>TABLETS</strong> de clase y la <strong>PANTALLA DIGITAL</strong> que tanto nos gusta. Pero antes de usarlas debemos recordar algo muy importante: debemos tener cuidado con nuestros datos y conocer nuestros permisos para poder utilizar aquello que encontramos en <strong>INTERNET</strong>. </p>
+<p><strong>¡ES OBLIGATORIO!</strong></p>
+<p>Antes de hacer una foto a un compañero o compañera, tenemos que preguntarle si podemos hacerla, debemos respetar la <strong>SEGURIDAD</strong> de nuestros compañeros así como la nuestra. </p>
+<p>Respetar nuestra <strong>SEGURIDAD</strong> y la de los demás, nos convierte en <span style="text-decoration: underline;"><strong>NINJAS DIGITALES</strong></span>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779979021818-bhhj7frqw","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>HOLA SÚPER NINJAS</strong></h1>\n<p style=\"text-align: justify;\">En esta investigación sobre los <strong>ANIMALES</strong> vamos a tener que utilizar las <strong>TABLETS</strong> de clase y la <strong>PANTALLA DIGITAL</strong> que tanto nos gusta. Pero antes de usarlas debemos recordar algo muy importante: debemos tener cuidado con nuestros datos y conocer nuestros permisos para poder utilizar aquello que encontramos en <strong>INTERNET</strong>. </p>\n<p><strong>¡ES OBLIGATORIO!</strong></p>\n<p>Antes de hacer una foto a un compañero o compañera, tenemos que preguntarle si podemos hacerla, debemos respetar la <strong>SEGURIDAD</strong> de nuestros compañeros así como la nuestra. </p>\n<p>Respetar nuestra <strong>SEGURIDAD</strong> y la de los demás, nos convierte en <span style=\"text-decoration: underline;\"><strong>NINJAS DIGITALES</strong></span>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9k3-flpkiya86</odePageId>
+      <odeBlockId>block-1779980131116-2zhczeldy</odeBlockId>
+      <blockName>Guía NINJA de Licencias y Seguridad</blockName>
+      <iconName>observe</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k3-flpkiya86</odePageId>
+          <odeBlockId>block-1779980131116-2zhczeldy</odeBlockId>
+          <odeIdeviceId>idevice-1779980131114-savl2t1ig</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡Atención, equipo de investigadores! </strong></h1>
+<p>Para usar las <strong>TABLETS </strong>como auténticos profesionales, tenemos un TRUCO: <strong>¡Nuestra Guía Ninja! </strong></p>
+<p>En esta guía podéis ver los trucos más importantes para cuidar de nuestra <strong>SEGURIDAD</strong> digital y respetar las <strong>LICENCIAS</strong> de los demás creadores. </p>
+<p>El objetivo es ser <strong>NINJAS DE SEGURIDAD</strong>.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHIWPd6ShQ/o9D8KoKM_4a8vs8Aapvvpw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHIWPd6ShQ/o9D8KoKM_4a8vs8Aapvvpw/view?utm_content=DAHIWPd6ShQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">INFOGRAFIA LAURA ESPINOSA ENRIQUE</a> de Laura Espinosa Enrique</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779980131114-savl2t1ig","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡Atención, equipo de investigadores! </strong></h1>\n<p>Para usar las <strong>TABLETS </strong>como auténticos profesionales, tenemos un TRUCO: <strong>¡Nuestra Guía Ninja! </strong></p>\n<p>En esta guía podéis ver los trucos más importantes para cuidar de nuestra <strong>SEGURIDAD</strong> digital y respetar las <strong>LICENCIAS</strong> de los demás creadores. </p>\n<p>El objetivo es ser <strong>NINJAS DE SEGURIDAD</strong>.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 250.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHIWPd6ShQ/o9D8KoKM_4a8vs8Aapvvpw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHIWPd6ShQ/o9D8KoKM_4a8vs8Aapvvpw/view?utm_content=DAHIWPd6ShQ&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">INFOGRAFIA LAURA ESPINOSA ENRIQUE</a> de Laura Espinosa Enrique</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k4-0fbrj77kn</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>3. Nuestro Producto Final</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Nuestro Producto Final</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>3. Nuestro OBJETIVO</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>3. Nuestro Producto Final</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k4-0fbrj77kn</odePageId>
+      <odeBlockId>block-1779980982284-97p2u3tf0</odeBlockId>
+      <blockName>Nuestra gran misión</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k4-0fbrj77kn</odePageId>
+          <odeBlockId>block-1779980982284-97p2u3tf0</odeBlockId>
+          <odeIdeviceId>idevice-1779980982281-ph6ak38be</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡EL MURAL INTERACTIVO!</strong></h1>
+<p>¡Atención equipo de investigadores!</p>
+<p>Para terminar nuestro gran proyecto, vamos a fabricar juntos un <strong>Mural Digital </strong>de los animales en la pantalla digital de clase. <strong>¡Va a ser mágico! </strong></p>
+<p>¿Queréis saber cómo lo haremos? <strong>¡Seguid estos pasos! </strong></p>
+<p>1. Recorreremos los pasillos del cole para encontrar fotos de animales escondidos.</p>
+<p>2. Con la tablet del aula, le harás una foto al animal que encuentres. </p>
+<p>3. ¡Al baúl secreto! Subiremos todas las fotos a nuestro cofre de <strong>GOOGLE PHOTOS</strong>.</p>
+<p>4. Y por último, ¡A jugar en la pantalla! En nuestro mural de <strong>GENIALLY</strong>, colocaremos las fotografías y las uniremos a su nombre y a su sonido.</p>
+<p><strong>¡Con la ayuda de todos, nuestro mural va a quedar precioso! </strong></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779980982281-ph6ak38be","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡EL MURAL INTERACTIVO!</strong></h1>\n<p>¡Atención equipo de investigadores!</p>\n<p>Para terminar nuestro gran proyecto, vamos a fabricar juntos un <strong>Mural Digital </strong>de los animales en la pantalla digital de clase. <strong>¡Va a ser mágico! </strong></p>\n<p>¿Queréis saber cómo lo haremos? <strong>¡Seguid estos pasos! </strong></p>\n<p>1. Recorreremos los pasillos del cole para encontrar fotos de animales escondidos.</p>\n<p>2. Con la tablet del aula, le harás una foto al animal que encuentres. </p>\n<p>3. ¡Al baúl secreto! Subiremos todas las fotos a nuestro cofre de <strong>GOOGLE PHOTOS</strong>.</p>\n<p>4. Y por último, ¡A jugar en la pantalla! En nuestro mural de <strong>GENIALLY</strong>, colocaremos las fotografías y las uniremos a su nombre y a su sonido.</p>\n<p><strong>¡Con la ayuda de todos, nuestro mural va a quedar precioso! </strong></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9k4-0fbrj77kn</odePageId>
+      <odeBlockId>block-1779982173671-bg69tmyyj</odeBlockId>
+      <blockName>Justificación de las herramientas</blockName>
+      <iconName>diary</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k4-0fbrj77kn</odePageId>
+          <odeBlockId>block-1779982173671-bg69tmyyj</odeBlockId>
+          <odeIdeviceId>idevice-1779982173668-wtwdz9ubs</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;"><strong>¿POR QUÉ ELEGIMOS ESTAS HERRAMIENTAS?</strong></h1>
+<p style="text-align: justify;">A continuación, se muestra el documento que justifica la elección de estas herramientas para realizar el producto final del proyecto. Es decir, por qué <strong>GOOGLE PHOTOS</strong> y <strong>GENIALLY</strong>, han sido los grandes elegidos. </p>
+<p style="text-align: justify;"><strong>¡Son la base de nuestro gran producto final!</strong></p>
+<p style="text-align: justify;"><strong><iframe width="826" height="413" src="https://docs.google.com/document/d/e/2PACX-1vQNSffSNJiNC81lOt6G1K-_D23uQx3EqllZiHpRNExnbGkY96wfM95jkS5yPbpV-QXOXnT1r0MHHtO8/pub?embedded=true"></iframe></strong></p>
+<p style="text-align: justify;"><strong></strong><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779982173668-wtwdz9ubs","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\"><strong>¿POR QUÉ ELEGIMOS ESTAS HERRAMIENTAS?</strong></h1>\n<p style=\"text-align: justify;\">A continuación, se muestra el documento que justifica la elección de estas herramientas para realizar el producto final del proyecto. Es decir, por qué <strong>GOOGLE PHOTOS</strong> y <strong>GENIALLY</strong>, han sido los grandes elegidos. </p>\n<p style=\"text-align: justify;\"><strong>¡Son la base de nuestro gran producto final!</strong></p>\n<p style=\"text-align: justify;\"><strong><iframe width=\"826\" height=\"413\" src=\"https://docs.google.com/document/d/e/2PACX-1vQNSffSNJiNC81lOt6G1K-_D23uQx3EqllZiHpRNExnbGkY96wfM95jkS5yPbpV-QXOXnT1r0MHHtO8/pub?embedded=true\"></iframe></strong></p>\n<p style=\"text-align: justify;\"><strong></strong><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k5-9g87zmgmz</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>4. Nos organizamos</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Nos organizamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Nos organizamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k5-9g87zmgmz</odePageId>
+      <odeBlockId>block-1779985806394-yiagqp0rw</odeBlockId>
+      <blockName>Tenemos que organizarnos</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k5-9g87zmgmz</odePageId>
+          <odeBlockId>block-1779985806394-yiagqp0rw</odeBlockId>
+          <odeIdeviceId>idevice-1779985806393-igook7ru5</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡Atención investigadores!</strong></h1>
+<p>Para poder aprender correctamente sobre los animales, debemos saber <strong>QUÉ</strong>, <strong>CÓMO</strong> y <strong>CUÁNDO</strong> lo vamos a hacer. </p>
+<p>Para ello, os he preparado una guía visual con los aspectos más importantes que vamos a realizar durante este mes.</p>
+<p>MIRADLO BIEN Y RECORDAD TODO LO IMPORTANTE</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHK3pw5igo/Sz3OALVGl-pSK6Exhx4jbA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHK3pw5igo/Sz3OALVGl-pSK6Exhx4jbA/view?utm_content=DAHK3pw5igo&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">7.1. LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</a> de Laura Espinosa Enrique</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779985806393-igook7ru5","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡Atención investigadores!</strong></h1>\n<p>Para poder aprender correctamente sobre los animales, debemos saber <strong>QUÉ</strong>, <strong>CÓMO</strong> y <strong>CUÁNDO</strong> lo vamos a hacer. </p>\n<p>Para ello, os he preparado una guía visual con los aspectos más importantes que vamos a realizar durante este mes.</p>\n<p>MIRADLO BIEN Y RECORDAD TODO LO IMPORTANTE</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHK3pw5igo/Sz3OALVGl-pSK6Exhx4jbA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHK3pw5igo/Sz3OALVGl-pSK6Exhx4jbA/view?utm_content=DAHK3pw5igo&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">7.1. LÍNEA TEMPORAL PARA LA ORGANIZACIÓN</a> de Laura Espinosa Enrique</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k5-7beaf9svm</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>5. Investigamos y aprendemos</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. Investigamos y aprendemos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>4. Investigamos y aprendemos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>5. Investigamos y aprendemos</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k5-7beaf9svm</odePageId>
+      <odeBlockId>block-1779983364680-3af90smgb</odeBlockId>
+      <blockName>Nuestro baúl de investigación</blockName>
+      <iconName>experiment</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k5-7beaf9svm</odePageId>
+          <odeBlockId>block-1779983364680-3af90smgb</odeBlockId>
+          <odeIdeviceId>idevice-1779983364675-1gaxcreku</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;"><strong>¡Ha llegado el momento de aprender sobre los animales!</strong></h1>
+<p style="text-align: justify;">En este lugar, se van a presentar numerosos <strong>vídeos y actividades</strong> para conocer en profundidad las características, sonidos y formas de nuestros queridos <strong>ANIMALES</strong>. </p>
+<p style="text-align: justify;"> ¿Estáis preparados para descubrir todos sus secretos?</p>
+<p style="text-align: justify;">¡Que empiece la investigación!</p>
+<div class="padlet-embed" style="border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;">
+<p style="padding: 0; margin: 0;"><iframe width="100" height="608" style="width: 100%; height: 608px; display: block; padding: 0; margin: 0;" src="https://padlet.com/embed/fvccbnfnxfofqxsa" frameborder="0" allow="camera;microphone;geolocation;display-capture;clipboard-write" data-mce-fragment="1"></iframe></p>
+</div>
+<p><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779983364675-1gaxcreku","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\"><strong>¡Ha llegado el momento de aprender sobre los animales!</strong></h1>\n<p style=\"text-align: justify;\">En este lugar, se van a presentar numerosos <strong>vídeos y actividades</strong> para conocer en profundidad las características, sonidos y formas de nuestros queridos <strong>ANIMALES</strong>. </p>\n<p style=\"text-align: justify;\"> ¿Estáis preparados para descubrir todos sus secretos?</p>\n<p style=\"text-align: justify;\">¡Que empiece la investigación!</p>\n<div class=\"padlet-embed\" style=\"border: 1px solid rgba(0,0,0,0.1); border-radius: 2px; box-sizing: border-box; overflow: hidden; position: relative; width: 100%; background: #F4F4F4;\">\n<p style=\"padding: 0; margin: 0;\"><iframe width=\"100\" height=\"608\" style=\"width: 100%; height: 608px; display: block; padding: 0; margin: 0;\" src=\"https://padlet.com/embed/fvccbnfnxfofqxsa\" frameborder=\"0\" allow=\"camera;microphone;geolocation;display-capture;clipboard-write\" data-mce-fragment=\"1\"></iframe></p>\n</div>\n<p><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k6-8x684huiw</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>6. ¡A la busca del animal!</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¡A la busca del animal!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>5. ¡A la busca del animal!</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>6. ¡A la busca del animal!</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k6-8x684huiw</odePageId>
+      <odeBlockId>block-1779986174575-hah8ckm0x</odeBlockId>
+      <blockName>NUESTRO ESPERADO FINAL</blockName>
+      <iconName>gallery</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k6-8x684huiw</odePageId>
+          <odeBlockId>block-1779986174575-hah8ckm0x</odeBlockId>
+          <odeIdeviceId>idevice-1779986174573-gl6k7cap0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1 style="text-align: justify;"><strong>¡Atención, súper investigadores! </strong></h1>
+<p style="text-align: justify;">Ya nos hemos organizado y sabemos todo lo que tenemos que hacer.</p>
+<p style="text-align: justify;">Ahora empieza nuestra gran misión en el colegio para encontrar a los al animales protagonistas de nuestro MURAL. </p>
+<p style="text-align: justify;">Para conseguirlo, vamos a seguir las siguientes instrucciones:</p>
+<p style="text-align: justify;">1. Cogeremos las <strong>TABLETS</strong>.</p>
+<p style="text-align: justify;">2. Saldremos a <strong>buscar los animales</strong> que las maestras han escondido por el colegio.</p>
+<p style="text-align: justify;">3. ¡Les haremos fotos con la <strong>CÁMARA</strong>!</p>
+<p style="text-align: justify;">4. Guardaremos esas fotos en <strong>GOOGLE PHOTOS</strong>.</p>
+<p style="text-align: justify;">5. Comenzará la aventura en <strong>GENIALLY</strong>. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779986174573-gl6k7cap0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1 style=\"text-align: justify;\"><strong>¡Atención, súper investigadores! </strong></h1>\n<p style=\"text-align: justify;\">Ya nos hemos organizado y sabemos todo lo que tenemos que hacer.</p>\n<p style=\"text-align: justify;\">Ahora empieza nuestra gran misión en el colegio para encontrar a los al animales protagonistas de nuestro MURAL. </p>\n<p style=\"text-align: justify;\">Para conseguirlo, vamos a seguir las siguientes instrucciones:</p>\n<p style=\"text-align: justify;\">1. Cogeremos las <strong>TABLETS</strong>.</p>\n<p style=\"text-align: justify;\">2. Saldremos a <strong>buscar los animales</strong> que las maestras han escondido por el colegio.</p>\n<p style=\"text-align: justify;\">3. ¡Les haremos fotos con la <strong>CÁMARA</strong>!</p>\n<p style=\"text-align: justify;\">4. Guardaremos esas fotos en <strong>GOOGLE PHOTOS</strong>.</p>\n<p style=\"text-align: justify;\">5. Comenzará la aventura en <strong>GENIALLY</strong>. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9k7-k5qsqkgta</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>7. ¿Cómo nos hemos divertido?</pageName>
+  <odeNavStructureOrder>7</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. ¿Cómo nos hemos divertido?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>6. ¿Cómo nos hemos divertido?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>7. ¿Cómo nos hemos divertido?</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9k7-k5qsqkgta</odePageId>
+      <odeBlockId>block-1779986754190-hhyf04jz8</odeBlockId>
+      <blockName>¿Cómo sabemos si lo hemos hecho bien?</blockName>
+      <iconName>technology</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k7-k5qsqkgta</odePageId>
+          <odeBlockId>block-1779986754190-hhyf04jz8</odeBlockId>
+          <odeIdeviceId>idevice-1779986754185-l1ev3u7nr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡Investigadores, ha llegado el momento de ver cuánto sabemos! </strong></h1>
+<p>Para ayudarnos, usaremos nuestros marcadores de pulgares. </p>
+<p>Si el animal es correcto, levantamos el pulgar verde.</p>
+<p>Si el animal es un error de nuestro laboratorio loco, ponemos el pulgar rojo.</p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHK-G1A_wk/ZTHjpcEKpkmhnTaf_szYnQ/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHK-G1A_wk/ZTHjpcEKpkmhnTaf_szYnQ/view?utm_content=DAHK-G1A_wk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">ACTIVIDAD PIELES ANIMALES</a> de Laura Espinosa Enrique</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779986754185-l1ev3u7nr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡Investigadores, ha llegado el momento de ver cuánto sabemos! </strong></h1>\n<p>Para ayudarnos, usaremos nuestros marcadores de pulgares. </p>\n<p>Si el animal es correcto, levantamos el pulgar verde.</p>\n<p>Si el animal es un error de nuestro laboratorio loco, ponemos el pulgar rojo.</p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 70.7071%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHK-G1A_wk/ZTHjpcEKpkmhnTaf_szYnQ/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHK-G1A_wk/ZTHjpcEKpkmhnTaf_szYnQ/view?utm_content=DAHK-G1A_wk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">ACTIVIDAD PIELES ANIMALES</a> de Laura Espinosa Enrique</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9k7-k5qsqkgta</odePageId>
+      <odeBlockId>block-1779987873730-mufmg8jl3</odeBlockId>
+      <blockName>Evaluación del aprendizaje (docentes)</blockName>
+      <iconName>present</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9k7-k5qsqkgta</odePageId>
+          <odeBlockId>block-1779987873730-mufmg8jl3</odeBlockId>
+          <odeIdeviceId>idevice-1779987873727-i4y9d4h87</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <h1><strong>¡Hola maestro! </strong></h1>
+<p>En este espacio he colgado la Tarea 8.1 completa para que puedas ver toda la justificación de estos instrumentos de evaluación. Aquí dentro te explico al detalle cómo organizo la evaluación de mis alumnos. </p>
+<p><strong> ¡Espero que te sirva de ayuda!</strong></p>
+<p><iframe width="850" height="425" src="https://docs.google.com/document/d/e/2PACX-1vSnk6dDX9Lmo1svCTXftvtvk6zrkH7X0VgQuEY3YULbNQk3FB8m_GqM4UZIY_RSj3mBXSmUqeinfBHL/pub?embedded=true"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779987873727-i4y9d4h87","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<h1><strong>¡Hola maestro! </strong></h1>\n<p>En este espacio he colgado la Tarea 8.1 completa para que puedas ver toda la justificación de estos instrumentos de evaluación. Aquí dentro te explico al detalle cómo organizo la evaluación de mis alumnos. </p>\n<p><strong> ¡Espero que te sirva de ayuda!</strong></p>\n<p><iframe width=\"850\" height=\"425\" src=\"https://docs.google.com/document/d/e/2PACX-1vSnk6dDX9Lmo1svCTXftvtvk6zrkH7X0VgQuEY3YULbNQk3FB8m_GqM4UZIY_RSj3mBXSmUqeinfBHL/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>8. Guía didáctica</pageName>
+  <odeNavStructureOrder>8</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>7. Guía didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>8. Guía didáctica</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+      <odeBlockId>block-1779988575971-1rlmh994a</odeBlockId>
+      <blockName>Marco curricular</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+          <odeBlockId>block-1779988575971-1rlmh994a</odeBlockId>
+          <odeIdeviceId>idevice-1779988575969-hr9u0tk4r</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Esta Guía Didáctica pretende recoger el marco curricular de esta situación de aprendizaje que lleva por título <strong>PLUMAS Y ¡PROBLEMAS!</strong>, la cual está diseñada para desarrollarse en un aula específica de educación especial con alumnado con un nivel de competencia curricular de 2 ciclo de Educación Infantil. </p>
+<p style="text-align: justify;">A continuación se detalla la vinculación directa de las actividades propuestas con los diferentes criterios de evaluación, tomando como referencia el ya mencionado currículo de Educación Infantil, recogido en la <em>Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determinan los procesos de tránsito entre ciclos y con Educación Primaria. </em></p>
+<p style="text-align: justify;"><em><iframe width="868" height="434" src="https://docs.google.com/document/d/e/2PACX-1vRb39DddS94HbBoeAb9ggV3S_2YxJJHy6DQizR_eSVol4h1hTc6saU_lEuHU2rg8fnwJdSd3GmJgyc_/pub?embedded=true"></iframe></em></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779988575969-hr9u0tk4r","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Esta Guía Didáctica pretende recoger el marco curricular de esta situación de aprendizaje que lleva por título <strong>PLUMAS Y ¡PROBLEMAS!</strong>, la cual está diseñada para desarrollarse en un aula específica de educación especial con alumnado con un nivel de competencia curricular de 2 ciclo de Educación Infantil. </p>\n<p style=\"text-align: justify;\">A continuación se detalla la vinculación directa de las actividades propuestas con los diferentes criterios de evaluación, tomando como referencia el ya mencionado currículo de Educación Infantil, recogido en la <em>Orden de 30 de mayo de 2023, por la que se desarrolla el currículo correspondiente a la etapa de Educación Infantil en la Comunidad Autónoma de Andalucía, se regulan determinados aspectos de la atención a la diversidad y a las diferencias individuales, se establece la ordenación de la evaluación del proceso de aprendizaje del alumnado y se determinan los procesos de tránsito entre ciclos y con Educación Primaria. </em></p>\n<p style=\"text-align: justify;\"><em><iframe width=\"868\" height=\"434\" src=\"https://docs.google.com/document/d/e/2PACX-1vRb39DddS94HbBoeAb9ggV3S_2YxJJHy6DQizR_eSVol4h1hTc6saU_lEuHU2rg8fnwJdSd3GmJgyc_/pub?embedded=true\"></iframe></em></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+      <odeBlockId>block-1779989097428-99b3n65e9</odeBlockId>
+      <blockName>Competencias específicas y descriptores operativos</blockName>
+      <iconName>competencies</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+          <odeBlockId>block-1779989097428-99b3n65e9</odeBlockId>
+          <odeIdeviceId>idevice-1779989097419-ptbl51y15</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">De la misma manera, se adjunta en esta guía didáctica, la presentación que describe nuestra situación de aprendizaje, donde se pueden encontrar las <strong>competencias específicas</strong> implicadas y sus respectivos <strong>descriptores operativos</strong>, además de la descripción general de la situación. </p>
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p style="text-align: justify;"><a href="https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?utm_content=DAHHeSA7Q6U&utm_campaign=designshare&utm_medium=embeds&utm_source=link" target="_blank" rel="noopener">PLUMAS Y PROBLEMAS</a> de Laura Espinosa Enrique</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779989097419-ptbl51y15","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">De la misma manera, se adjunta en esta guía didáctica, la presentación que describe nuestra situación de aprendizaje, donde se pueden encontrar las <strong>competencias específicas</strong> implicadas y sus respectivos <strong>descriptores operativos</strong>, además de la descripción general de la situación. </p>\n<div style=\"position: relative; width: 100%; height: 0; padding-top: 56.2500%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p style=\"text-align: justify;\"><a href=\"https://www.canva.com/design/DAHHeSA7Q6U/aEZv4-E1NsYcsLwdLB6JtA/view?utm_content=DAHHeSA7Q6U&utm_campaign=designshare&utm_medium=embeds&utm_source=link\" target=\"_blank\" rel=\"noopener\">PLUMAS Y PROBLEMAS</a> de Laura Espinosa Enrique</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+      <odeBlockId>block-1779989284712-nidx94kwu</odeBlockId>
+      <blockName>Banco de recursos para docentes</blockName>
+      <iconName>share</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9ka-jmlwtmrp7</odePageId>
+          <odeBlockId>block-1779989284712-nidx94kwu</odeBlockId>
+          <odeIdeviceId>idevice-1779989284710-314gr51vf</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Con el objetivo de facilitar la aplicación y desarrollo de esta situación de aprendizaje, destaco la importancia de tener un buen <strong>repositorio de aplicaciones y web de interés.</strong> </p>
+<p>Por consiguiente, me gustaría compartir una curación de contenido mediante la plataforma Symbaloo, donde se muestran las aplicaciones que uso diariamente en mi aula, tanto a nivel personal como para mi alumnado. Esto corresponde con la otra parte de la Tarea 5.1. </p>
+<p><a href="https://www.symbaloo.com/shared/AAAAAWAKE1cAA41-5EoTUQ==" target="_blank" rel="noopener" title="">PINCHA AQUÍ PARA VER MI BANCO DE RECURSOS DE SYMBALOO</a></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1779989284710-314gr51vf","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Con el objetivo de facilitar la aplicación y desarrollo de esta situación de aprendizaje, destaco la importancia de tener un buen <strong>repositorio de aplicaciones y web de interés.</strong> </p>\n<p>Por consiguiente, me gustaría compartir una curación de contenido mediante la plataforma Symbaloo, donde se muestran las aplicaciones que uso diariamente en mi aula, tanto a nivel personal como para mi alumnado. Esto corresponde con la otra parte de la Tarea 5.1. </p>\n<p><a href=\"https://www.symbaloo.com/shared/AAAAAWAKE1cAA41-5EoTUQ==\" target=\"_blank\" rel=\"noopener\" title=\"\">PINCHA AQUÍ PARA VER MI BANCO DE RECURSOS DE SYMBALOO</a></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>9. Créditos y descarga</pageName>
+  <odeNavStructureOrder>9</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>9. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>8. Créditos y descarga</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value>9. Créditos y descarga</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+      <odeBlockId>block-1780408181475-0a2zsh26c</odeBlockId>
+      <blockName>Créditos y propiedad intelectual</blockName>
+      <iconName>reflection</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+          <odeBlockId>block-1780408181475-0a2zsh26c</odeBlockId>
+          <odeIdeviceId>idevice-1780408181468-kg7m39orz</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;"><strong>AUTORA DEL REA:</strong> Laura Espinosa Enrique</p>
+<p style="text-align: justify;"><strong>PROPÓSITO:</strong> Este Recurso Educativo Abierto <span style="text-decoration: underline;">(REA)</span> ha sido creado como producto final del Curso en Competencia Digital Docente de nivel B2. </p>
+<p style="text-align: justify;"><strong>AGRADECIMIENTOS Y FUENTES: </strong></p>
+<p style="text-align: justify;">- Los pictogramas empleados en este recurso pertenecen a ARASAAC (Centro aragonés para la Comunicación Aumentativa y Alternativa), distribuidos bajo la licencia Creative Commons (BY-NC-SA), propiedad del Gobierno de Aragón.</p>
+<p style="text-align: justify;">- Las imágenes y actividades interactivas han sido diseñadas con herramientas de uso educativo como Canva, Genially y eXeLearning</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780408181468-kg7m39orz","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\"><strong>AUTORA DEL REA:</strong> Laura Espinosa Enrique</p>\n<p style=\"text-align: justify;\"><strong>PROPÓSITO:</strong> Este Recurso Educativo Abierto <span style=\"text-decoration: underline;\">(REA)</span> ha sido creado como producto final del Curso en Competencia Digital Docente de nivel B2. </p>\n<p style=\"text-align: justify;\"><strong>AGRADECIMIENTOS Y FUENTES: </strong></p>\n<p style=\"text-align: justify;\">- Los pictogramas empleados en este recurso pertenecen a ARASAAC (Centro aragonés para la Comunicación Aumentativa y Alternativa), distribuidos bajo la licencia Creative Commons (BY-NC-SA), propiedad del Gobierno de Aragón.</p>\n<p style=\"text-align: justify;\">- Las imágenes y actividades interactivas han sido diseñadas con herramientas de uso educativo como Canva, Genially y eXeLearning</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+      <odeBlockId>block-1780408947063-nt4z6mzno</odeBlockId>
+      <blockName>Licencia de uso</blockName>
+      <iconName>draw</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+          <odeBlockId>block-1780408947063-nt4z6mzno</odeBlockId>
+          <odeIdeviceId>idevice-1780408947058-1axewszyr</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Este recurso está publicado bajo la licencia Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional <strong>(CC BY-SA 4.0)</strong>.</p>
+<p>Esto significa que cualquier docente es totalmente libre de utilizar, copiar, modificar y adaptar este material para sus propias clases, siempre que cite a la autora original y comparta el recurso resultante bajo esta misma licencia. </p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780408947058-1axewszyr","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Este recurso está publicado bajo la licencia Creative Commons Reconocimiento-Compartir Igual 4.0 Internacional <strong>(CC BY-SA 4.0)</strong>.</p>\n<p>Esto significa que cualquier docente es totalmente libre de utilizar, copiar, modificar y adaptar este material para sus propias clases, siempre que cite a la autora original y comparta el recurso resultante bajo esta misma licencia. </p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+      <odeBlockId>block-1780409313074-1gxisg69i</odeBlockId>
+      <blockName>Zona de DESCARGA</blockName>
+      <iconName>download</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mpwow9kb-yfmd71ikx</odePageId>
+          <odeBlockId>block-1780409313074-1gxisg69i</odeBlockId>
+          <odeIdeviceId>idevice-1780409313072-mifkcza1v</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: justify;">Si eres maestro o maestra y quieres utilizar esta situación de aprendizaje en tu Aula Específica o clase de Infantil, puedes descargarte el archivo original para modificar los textos, añadir tus propias imágenes o cambiar los animales según los intereses de tus alumnos.</p>
+<p style="text-align: justify;">RECUERDA. Cuando abras el enlace es necesario que le des a DESCARGAR y no te quedes solo en la VISUALIZACIÓN. </p>
+<p><span style="font-size: 24pt;"><strong><a href="https://drive.google.com/file/d/1HtrSDUUYb8C0ScIuuWxFnl0O85wHuWX8/view?usp=sharing" target="_blank" rel="noopener" title="">ENLACE DE DESCARGA DEL REA</a></strong></span></p>
+<p style="text-align: justify;"><br /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1780409313072-mifkcza1v","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: justify;\">Si eres maestro o maestra y quieres utilizar esta situación de aprendizaje en tu Aula Específica o clase de Infantil, puedes descargarte el archivo original para modificar los textos, añadir tus propias imágenes o cambiar los animales según los intereses de tus alumnos.</p>\n<p style=\"text-align: justify;\">RECUERDA. Cuando abras el enlace es necesario que le des a DESCARGAR y no te quedes solo en la VISUALIZACIÓN. </p>\n<p><span style=\"font-size: 24pt;\"><strong><a href=\"https://drive.google.com/file/d/1HtrSDUUYb8C0ScIuuWxFnl0O85wHuWX8/view?usp=sharing\" target=\"_blank\" rel=\"noopener\" title=\"\">ENLACE DE DESCARGA DEL REA</a></strong></span></p>\n<p style=\"text-align: justify;\"><br /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
